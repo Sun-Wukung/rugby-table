@@ -66,11 +66,6 @@ public class Table {
 	    match9.setMatch(sba, za, 33, 0, 4, 0);
 	    match10.setMatch(rkb, pn, 43 ,14, 4, 0);
 	    
-
-
-    
-	    
-//	    stackoverflow.com/questions/2784514
 //	    orders the team by points
 //	    the order of o1 and o2 in compare method decides if its ascending or descending
 
@@ -85,10 +80,7 @@ public class Table {
 	    
 	    }
 
-//	 tuto funkciu by som potreboval, ak by som si chcel vytiahnut len jeden tim
-//	    public static void getTblRow(Team team) {
-//	        System.out.println(team.teamname + " " + team.matches + " " + team.wins + " " + team.draws + " " + team.loses + " " + team.scorefor + " " + team.scoreagainst + " " + team.points);
-//	    }
+
 	    
 	    	
 	    
